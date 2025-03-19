@@ -1,0 +1,5 @@
+# 忽略所有 build 目录
+**/build/
+
+# 忽略所有 .cache 目录
+**/.cache/
